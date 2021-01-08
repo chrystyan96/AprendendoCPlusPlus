@@ -1,0 +1,13 @@
+﻿  aprendendo.cpp
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(274,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(517,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(518,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(519,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(519,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(527,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(528,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(529,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(530,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(530,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\aprendendo.h(530,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Aprendendo C++.vcxproj -> C:\Users\Administrator\Documents\C++\Aprendendo C++\Debug\Aprendendo C++.exe
