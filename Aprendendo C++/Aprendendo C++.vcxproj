@@ -147,10 +147,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="aprendendo.cpp" />
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="ArraysVectors.cpp" />
+    <ClCompile Include="FunctionsManipulation.cpp" />
+    <ClCompile Include="ManipulandoArquivos.cpp" />
+    <ClCompile Include="PointersManipulaton.cpp" />
+    <ClCompile Include="RandomManipulation.cpp" />
+    <ClCompile Include="StringManipulation.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="aprendendo.h" />
+    <ClInclude Include="App.h" />
+    <ClInclude Include="ArraysVectors.h" />
+    <ClInclude Include="FunctionsManipulation.h" />
+    <ClInclude Include="ManipulandoArquivos.h" />
+    <ClInclude Include="PointersManipulaton.h" />
+    <ClInclude Include="RandomManipulation.h" />
+    <ClInclude Include="StringManipulation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
