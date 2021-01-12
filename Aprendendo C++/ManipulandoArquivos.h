@@ -1,6 +1,9 @@
-
 #include <iostream>
 #include <fstream>
 #include <string>
 
-void manipularArquivo();
+class ManipulandoArquivos {
+public:
+	void manipularArquivo();
+};
+

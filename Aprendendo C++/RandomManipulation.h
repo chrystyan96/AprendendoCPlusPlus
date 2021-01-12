@@ -3,5 +3,9 @@
 #include <iostream>
 #include <sstream> //permite usar std::getline
 
-void randomTest();
+class RandomManipulation {
+public:
+	void randomTest();
+};
+
 

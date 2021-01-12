@@ -1,6 +1,6 @@
 #include "StringManipulation.h"
 
-void streamString() {
+void StringManipulation::streamString() {
     //Converte string para outros tipos de variáveis
 
     /*Goal: practice using stringstream
@@ -32,7 +32,7 @@ void streamString() {
     std::cout << "A area do quarto é de: " << numWidth * numLength;
 }
 
-void stringInput() {
+void StringManipulation::stringInput() {
     std::string nome1, nome2;
     std::string endereco1, endereco2;
     std::string telefone1, telefone2;
@@ -60,31 +60,4 @@ void stringInput() {
     std::cout << nome2 << "\n";
     std::cout << "\t\t" << endereco2 << "\n";
     std::cout << "\t\t" << telefone2 << "\n";
-}
-
-void userInput() {
-    int year = 0;
-    int age = 0;
-    std::string name = " ";
-    //print a message to the user
-    std::cout << "What year is your favorite? ";
-
-    //get the user response and assign it to the variable year
-    std::cin >> year;
-
-    //output response to user
-    std::cout << "How interesting, your favorite year is " << year << "!\n";
-
-    //print a message to the user
-    std::cout << "At what age did you learn to ride a bike? ";
-
-    //get the user response and assign it to the variable age
-    std::cin >> age;
-
-    //output response to user
-    std::cout << "How interesting you learned to ride at " << age << "!\n";
-
-    std::cout << "What is your name? ";
-    std::cin >> name;
-    std::cout << "Hello " << name << " !\n";
 }

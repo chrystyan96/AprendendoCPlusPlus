@@ -1,5 +1,9 @@
 #include<iostream>
 #include<string>
 
-void pointers();
+class PointersManipulaton {
+public:
+	void pointers();
+};
+
 

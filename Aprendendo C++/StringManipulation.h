@@ -2,7 +2,9 @@
 #include <string>
 #include <iostream>
 
-void streamString();
-void stringInput();
-void userInput();
+class StringManipulation {
+public:
+	void streamString();
+	void stringInput();
+};
 

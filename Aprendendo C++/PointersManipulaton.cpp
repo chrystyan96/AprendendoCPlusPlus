@@ -1,6 +1,6 @@
 #include "PointersManipulaton.h"
 
-void pointers() {
+void PointersManipulaton::pointers() {
 	/*For this program print for each variable
 	**print the value of the variable,
 	**then print the address where it is stored.

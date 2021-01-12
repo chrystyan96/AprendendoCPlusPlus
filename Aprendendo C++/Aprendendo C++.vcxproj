@@ -151,6 +151,7 @@
     <ClCompile Include="ArraysVectors.cpp" />
     <ClCompile Include="FunctionsManipulation.cpp" />
     <ClCompile Include="ManipulandoArquivos.cpp" />
+    <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="PointersManipulaton.cpp" />
     <ClCompile Include="RandomManipulation.cpp" />
     <ClCompile Include="StringManipulation.cpp" />
@@ -160,6 +161,7 @@
     <ClInclude Include="ArraysVectors.h" />
     <ClInclude Include="FunctionsManipulation.h" />
     <ClInclude Include="ManipulandoArquivos.h" />
+    <ClInclude Include="Overloading.h" />
     <ClInclude Include="PointersManipulaton.h" />
     <ClInclude Include="RandomManipulation.h" />
     <ClInclude Include="StringManipulation.h" />

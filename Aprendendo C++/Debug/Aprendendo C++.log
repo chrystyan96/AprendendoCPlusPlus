@@ -1,2 +1,7 @@
 ﻿  App.cpp
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\Overloading.h(6,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Documents\C++\Aprendendo C++\Aprendendo C++\Overloading.h(7,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ManipulandoArquivos.cpp
+  PointersManipulaton.cpp
+  Generating Code...
   Aprendendo C++.vcxproj -> C:\Users\Administrator\Documents\C++\Aprendendo C++\Debug\Aprendendo C++.exe

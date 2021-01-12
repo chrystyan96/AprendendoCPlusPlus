@@ -1,6 +1,6 @@
 #include "RandomManipulation.h"
 
-void randomTest() {
+void RandomManipulation::randomTest() {
     /*Goal: In the programming quiz, use a while loop to prompt
     **the user to guess a target number.
     **Tell the user if the guess is too high or too low.

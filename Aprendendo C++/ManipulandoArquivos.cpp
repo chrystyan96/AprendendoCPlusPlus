@@ -1,6 +1,6 @@
 #include "ManipulandoArquivos.h"
 
-void manipularArquivo() {
+void ManipulandoArquivos::manipularArquivo() {
     std::string line;
     //create an output stream to write to the file
     //append the new lines to the end of the file

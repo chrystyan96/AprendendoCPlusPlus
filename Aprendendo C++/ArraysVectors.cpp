@@ -2,7 +2,7 @@
 
 int NofScannedArguments = 0;
 
-void arrays() {
+void ArraysVectors::arrays() {
     /*Goal: Practice array manipulation in C++.
      **The user will input 40 integers.
      **Put them into an array. Then print the array in the order the numbers were
@@ -51,7 +51,7 @@ void arrays() {
     }
 }
 
-void arraySearch() {
+void ArraysVectors::arraySearch() {
     /*Goal: practice searching an array in C++
     **There is an array of integers. The length of the arrays to be searched
     **varies. A user will enter a postive integer and the program will search the array.
@@ -93,7 +93,7 @@ void arraySearch() {
     }
 }
 
-void multidimensionalArrays() {
+void ArraysVectors::multidimensionalArrays() {
     /*Goal: practice using multidimensional arrays.
     **Write a program that will accept values for a 4x4 array
     **and a vector of size 4.
@@ -111,6 +111,7 @@ void multidimensionalArrays() {
 
     for (int i = 0; i < 4; i++) {
         for (int j = 0; j < 4; j++) {
+            std::cout << "Digite um valor: ";
             NofScannedArguments = scanf_s("%d", &inputArray[i][j]);
         }
     }
